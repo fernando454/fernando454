@@ -104,3 +104,12 @@ Estou sempre em busca de novos aprendizados, desafios e oportunidades para aplic
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-plain.svg"
 />
+<img 
+    align="left" 
+    alt="Plotly" 
+    title="Plotly"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
+/>
+
